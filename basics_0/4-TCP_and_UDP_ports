@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-/** Display of listening ports */
+# Display Listening Ports
