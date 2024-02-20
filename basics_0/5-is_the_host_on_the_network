@@ -1,1 +1,3 @@
-
+#!/usr/bin/env bash
+#Usage: 5-is_the_host_on_the_network {8.8.8.8}
+# Ping th IP 5 times
