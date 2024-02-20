@@ -1,1 +1,5 @@
-
+#!/usr/bin/env bash
+/** Display of listening ports */
+22/ssh
+80/http
+443/https
